@@ -10,3 +10,5 @@ NAME         STATUS   ROLES    AGE     VERSION
 k8s-master   Ready    master   6m54s   v1.16.0
 k8s-node-1   Ready    <none>   2m35s   v1.16.0
 ```
+
+kubectl create -f app.yaml
