@@ -105,3 +105,4 @@ venv.bak/
 
 .DS_Store
 .vagrant/
+k8s-setup/join-command
