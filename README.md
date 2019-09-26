@@ -1,2 +1,5 @@
 # k8s-deploy
-Test
+
+Vagrant+Ansible+Kubernetes
+
+scp -r vagrant@192.168.10.10:/home/vagrant/.kube $HOME/
